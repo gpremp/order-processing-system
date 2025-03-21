@@ -1,4 +1,4 @@
-Below is a `README.md` file for your Node.js project. It includes instructions for setting up and running the project, as well as references to the Postman collection for API testing.
+Here’s the updated `README.md` file tailored to your GitHub repository and `.env` file configuration:
 
 ---
 
@@ -34,7 +34,7 @@ This is a **Node.js** application for an **Order Processing System**. It include
 
 Before running the project, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/) (v18 or higher)
 - [MongoDB](https://www.mongodb.com/) (running locally or remotely)
 - [Redis](https://redis.io/) (running locally or remotely)
 - [AWS Account](https://aws.amazon.com/) (for SQS and SES)
@@ -47,7 +47,7 @@ Before running the project, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/order-processing-system.git
+   git clone https://github.com/gpremp/order-processing-system.git
    cd order-processing-system
    ```
 
@@ -59,6 +59,52 @@ Before running the project, ensure you have the following installed:
    npm install
    ```
 
+3. **Set Up Environment Variables**
+
+   Create a `.env` file in the root directory and add the following environment variables:
+
+   ```plaintext
+   # MongoDB Configuration
+   MONGO_URI=your-mongodb-connection-string
+
+   # CORS Configuration
+   CORS_ORIGIN=*
+
+   # JWT Configuration
+   ACCESS_TOKEN_SECRET=jwt-access-token-secret
+   ACCESS_TOKEN_EXPIRY=1d
+   REFRESH_TOKEN_SECRET=jwt-refresh-token-secret
+   REFRESH_TOKEN_EXPIRY=10d
+
+   # Redis Configuration
+   REDIS_USERNAME=your-redis-username
+   REDIS_HOST=your-redis-host
+   REDIS_PASSWORD=your-redis-password
+   REDIS_PORT=your-redis-port
+
+   # AWS Configuration
+   REGION=your-aws-region
+   AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key
+   AWS_ACCESS_KEY_ID=your-aws-access-key-id
+   AWS_QUEUE_URL=your-aws-sqs-queue-url
+   SES_SENDER_EMAIL=your-ses-sender-email
+   ```
+
+4. **Start MongoDB and Redis**
+
+   Ensure that MongoDB and Redis are running on your machine. You can start them using the following commands:
+
+   - For MongoDB:
+     ```bash
+     mongod
+     ```
+
+   - For Redis:
+     ```bash
+     redis-server
+     ```
+
+---
 
 ## Running the Application
 
@@ -149,7 +195,7 @@ The server will start on `http://localhost:5000`.
 
 You can import the provided Postman collection to test the API endpoints. The collection includes examples for all the endpoints mentioned above.
 
-1. Download the Postman collection file:
+1. Download the Postman collection file: [OrderProcessingSystem.postman_collection.json](./postman/OrderProcessingSystem.postman_collection.json).
 2. Open Postman and click on **Import**.
 3. Upload the JSON file or paste the raw JSON content.
 
@@ -160,9 +206,13 @@ You can import the provided Postman collection to test the API endpoints. The co
 The following environment variables are required to run the project:
 
 - **MongoDB**: `MONGO_URI`
-- **Redis**: `REDIS_HOST`, `REDIS_PORT`, `REDIS_PASSWORD`
-- **JWT**: `JWT_SECRET`
-- **AWS**: `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_REGION`
+- **CORS**: `CORS_ORIGIN`
+- **JWT**: `ACCESS_TOKEN_SECRET`, `ACCESS_TOKEN_EXPIRY`, `REFRESH_TOKEN_SECRET`, `REFRESH_TOKEN_EXPIRY`
+- **Redis**: `REDIS_USERNAME`, `REDIS_HOST`, `REDIS_PASSWORD`, `REDIS_PORT`
+- **AWS**: `REGION`, `AWS_SECRET_ACCESS_KEY`, `AWS_ACCESS_KEY_ID`, `AWS_QUEUE_URL`, `SES_SENDER_EMAIL`
+
+---
+
 
 ---
 
