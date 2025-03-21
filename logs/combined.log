@@ -1,0 +1,65 @@
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:28:30.818Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:28:40.624Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:28:50.478Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:29:53.187Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:30:42.993Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:31:39.208Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:32:28.700Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:33:18.834Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:34:09.217Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:34:58.775Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:35:48.850Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:36:39.332Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:37:28.890Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:38:18.836Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:39:08.769Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:39:58.774Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:40:48.799Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:41:39.350Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:42:28.912Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:43:18.879Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:44:08.955Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:44:58.928Z"}
+{"level":"info","message":"Inventory item created: 1","timestamp":"2025-03-21T08:45:47.362Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:45:48.827Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:46:39.379Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T08:47:28.941Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:49:25.723Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:50:14.971Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:51:05.073Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:51:55.087Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:52:45.113Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:53:35.002Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:54:27.410Z"}
+{"level":"info","message":"✅ Message sent successfully. Message ID: 9ef11889-28de-4eb2-9ed4-10d1985cdcd9","timestamp":"2025-03-21T09:54:32.871Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T09:55:14.823Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T09:56:04.078Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T09:56:54.048Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T09:58:16.004Z"}
+{"level":"info","message":"🗑️ Message deleted successfully from SQS","timestamp":"2025-03-21T09:58:16.477Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T09:59:06.350Z"}
+{"level":"info","message":"✅ Message sent successfully. Message ID: 74183821-3269-4307-a5d4-79325b290e53","timestamp":"2025-03-21T09:59:50.214Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T10:00:16.075Z"}
+{"level":"info","message":"🗑️ Message deleted successfully from SQS","timestamp":"2025-03-21T10:00:16.825Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T10:01:06.970Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T10:01:57.040Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T10:02:47.116Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T10:03:36.917Z"}
+{"level":"info","message":"✅ Message sent successfully. Message ID: 8fe5ffd3-e3ce-4089-8f6e-5a81a87942a7","timestamp":"2025-03-21T11:19:58.092Z"}
+{"level":"info","message":"📩 Received 1 messages from SQS","timestamp":"2025-03-21T11:20:29.913Z"}
+{"level":"info","message":"🗑️ Message deleted successfully from SQS","timestamp":"2025-03-21T11:20:30.793Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T11:21:20.901Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T11:22:10.884Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:16:26.173Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:17:15.850Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:18:05.844Z"}
+{"level":"warn","message":"No data found in Redis for key: order:ORD-1742468558137-884","timestamp":"2025-03-21T14:18:31.273Z"}
+{"level":"info","message":"Data set in Redis for key: order:ORD-1742468558137-884","timestamp":"2025-03-21T14:18:31.465Z"}
+{"level":"info","message":"Data retrieved from Redis for key: order:ORD-1742468558137-884","timestamp":"2025-03-21T14:18:43.076Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:18:55.917Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:19:45.933Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:20:35.941Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:21:26.894Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:22:16.039Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:23:06.010Z"}
+{"level":"info","message":"📭 No messages available in the SQS queue","timestamp":"2025-03-21T14:23:56.155Z"}
